@@ -1,8 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-    <ItemGroup>
-        <Compile Update="Form1.cs">
-            <SubType>Form</SubType>
-        </Compile>
-    </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Figuras Tridimensionales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBidimensional.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCirculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCuadrado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCubo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmEsfera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmFiguras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTetraedro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTriangulos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
 </Project>
